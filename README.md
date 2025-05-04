@@ -1,6 +1,6 @@
 # Object Tracking Application
-![413639568-16fe6b39-533a-47e3-b634-8c2a1bb75550](https://github.com/user-attachments/assets/7f36dadd-bc63-4be1-ae4d-6fe31e99aac6)
 
+![413639568-16fe6b39-533a-47e3-b634-8c2a1bb75550](https://github.com/user-attachments/assets/7f36dadd-bc63-4be1-ae4d-6fe31e99aac6)
 
 This project is an object tracking application that uses OpenCV and Streamlit to process and display video files with object tracking.
 
@@ -62,4 +62,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Demo
 
-This project is deployed [HERE]()
+This project is deployed [HERE](https://objecttracking25.streamlit.app/)
